@@ -48,4 +48,6 @@ const styles = StyleSheet.create({
   },
 });
 
+var a = 5;
+
 AppRegistry.registerComponent('RefugeeInfoApp', () => RefugeeInfoApp);
