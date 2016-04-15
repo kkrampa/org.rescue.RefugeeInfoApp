@@ -1,0 +1,9 @@
+# See https://github.com/markstory/lint-review
+[files]
+ignore = */__tests/*
+
+[tools]
+linters = eslint
+
+[tool_eslint]
+config = ./.eslintrc
