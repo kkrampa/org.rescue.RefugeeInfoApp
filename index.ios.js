@@ -41,12 +41,13 @@ const styles = StyleSheet.create({
     fontSize: 20,
     textAlign: 'center',
     margin: 10,
+    test: 5,
   },
   instructions: {
     textAlign: 'center',
     color: '#333333',
-    marginBottom: 5,
+    marginBottom: 5
   },
 });
 
-AppRegistry.registerComponent('RefugeeInfoApp', () => RefugeeInfoApp);
+AppRegistry.registerComponent('RefugeeInfoApp', () => RefugeeInfoApp)
